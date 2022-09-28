@@ -1,0 +1,5 @@
+﻿  CYP02.cpp
+C:\Users\Manguito\source\repos\CYP02\CYP02\CYP02.cpp(11,9): warning C4473: "printf": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\Manguito\source\repos\CYP02\CYP02\CYP02.cpp(11,9): message : los marcadores de posición y sus parámetros esperan 6 argumentos variádicos, pero se proporcionaron 4
+C:\Users\Manguito\source\repos\CYP02\CYP02\CYP02.cpp(11,9): message : el argumento variádico 5 que falta es requerido por la cadena de formato '%04i'
+  CYP02.vcxproj -> C:\Users\Manguito\source\repos\CYP02\x64\Debug\CYP02.exe
